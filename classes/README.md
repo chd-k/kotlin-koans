@@ -5,4 +5,3 @@ Task "Classes" for VibeLab
 1. Sealed classes
 1. Rename on import
 1. Extension functions
-2. 
