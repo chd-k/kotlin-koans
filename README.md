@@ -1,2 +1,2 @@
 # kotlin-koans
-There completed tasks from Kotlin Koans
+There are completed tasks from Kotlin Koans
