@@ -1,4 +1,4 @@
-Task "Classes" for VibeLab
+Task "Classes"
 
 1. Data classes
 1. Smart casts
